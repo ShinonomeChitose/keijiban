@@ -1,0 +1,119 @@
+.logo img{
+    width:250px;
+}
+
+header{
+    width:100%;
+    height:40px;
+    background-color:black;
+    color:white;
+}
+
+header li{
+    float:left;
+    list-style:none;
+    padding-top:10px;
+    padding-left:40px;
+}
+
+.main_container{
+    clear:left;
+    width:100%;
+    margin:0 auto;
+}
+
+.left{
+    float:left;
+    width:70%;
+}
+
+.left h2{
+    border-left:5px solid black;
+    border-bottom:3px solid black;
+    padding-left:5px;
+}
+
+.left form{
+    width:99%;
+    margin-bottom:20px;
+    background-color:whitesmoke;
+    border:2px solid lightgray;
+    border-radius:4px;
+}
+
+form h3{
+    border-left:5px solid red;
+    margin-left:10px;
+    padding-left:10px;
+}
+
+form div{
+    margin-left:10px;
+}
+
+form .submit{
+    margin-top:15px;
+    margin-bottom:35px;
+    margin-left:10px;
+    padding-top:5px;
+    border:0px;
+    border-bottom:2px solid black;
+    border-radius:4px;
+    background-color:darkgray;
+    color:white;
+}
+
+.board{
+    width:99%;
+    margin-bottom:50px;
+}
+
+.box{
+    width:100%;
+    margin-bottom:10px;
+    background-color:whitesmoke;
+    border:2px solid lightgray;
+    border-radius:4px;
+}
+
+.box .contents{
+    padding-left:10px;
+}
+
+.box h3{
+    width:99%;
+    border-bottom:2px solid lightgray;
+}
+
+.box .handlename{
+    font-size:12px;
+}
+
+.right{
+    float:left;
+    width:27%;
+    padding-top:20px;
+    padding-left:20px;
+}
+
+.right h3{
+    border-bottom:2px solid darkgray;
+}
+
+.right li{
+    list-style:none;
+    margin-left:-20px;
+}
+
+footer{
+    clear:left;
+    width:100%;
+    height:40px;
+    text-align:center;
+    background-color:black;
+    color:white;
+}
+
+footer p{
+    padding-top:10px;
+}
